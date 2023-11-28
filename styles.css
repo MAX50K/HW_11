@@ -9,6 +9,6 @@
     padding-top: 15px;
     padding-left: 10px;
     margin-bottom: 30px;
-    border: dashed red 2px;
+    border: 2px dashed red;
     background-color: green;
 }
